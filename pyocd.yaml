@@ -1,0 +1,6 @@
+target_override: -AT32F415RCT7
+pack:
+  ./ArteryTek.AT32F415_DFP.2.0.7.pack
+frequency: 50000000
+
+#no change 
